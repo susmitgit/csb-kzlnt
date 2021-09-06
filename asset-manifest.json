@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://susmitgit.github.io/csb-kzlnt/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://susmitgit.github.io/csb-kzlnt/static/js/main.24a3eb72.chunk.js",
+    "main.js.map": "https://susmitgit.github.io/csb-kzlnt/static/js/main.24a3eb72.chunk.js.map",
+    "runtime-main.js": "https://susmitgit.github.io/csb-kzlnt/static/js/runtime-main.0f2843a7.js",
+    "runtime-main.js.map": "https://susmitgit.github.io/csb-kzlnt/static/js/runtime-main.0f2843a7.js.map",
+    "static/js/2.6a063448.chunk.js": "https://susmitgit.github.io/csb-kzlnt/static/js/2.6a063448.chunk.js",
+    "static/js/2.6a063448.chunk.js.map": "https://susmitgit.github.io/csb-kzlnt/static/js/2.6a063448.chunk.js.map",
+    "index.html": "https://susmitgit.github.io/csb-kzlnt/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://susmitgit.github.io/csb-kzlnt/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6a063448.chunk.js.LICENSE.txt": "https://susmitgit.github.io/csb-kzlnt/static/js/2.6a063448.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f2843a7.js",
+    "static/js/2.6a063448.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.24a3eb72.chunk.js"
+  ]
+}
